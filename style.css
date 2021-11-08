@@ -1,0 +1,28 @@
+html,
+
+body {
+  color: white;
+  background-color: black;
+}
+
+.heading {
+  font-size: 350%;
+  font-family: "Papyrus";
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+}
+
+.quotes {
+  font-family: "Monaco";
+  margin-left: 20px;
+  margin-top: 20px;
+}
